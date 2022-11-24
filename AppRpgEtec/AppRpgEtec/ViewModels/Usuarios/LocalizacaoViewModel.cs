@@ -23,7 +23,7 @@ namespace AppRpgEtec.ViewModels.Usuarios
         {
             MeuMapa = new Map();
 
-            string token = Application.Current.Properties["UsuarioToken"].ToString();
+            string token = "";
             uService = new UsuarioService(token);
 
         }

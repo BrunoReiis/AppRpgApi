@@ -2525,3 +2525,9 @@ D:\Gabriel\27-10\RpgApiEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\stamp\_R
 D:\Gabriel\27-10\RpgApiEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\has_logo_transparente.png
 D:\Gabriel\27-10\RpgApiEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\add.png
 D:\Gabriel\27-10\RpgApiEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\delete.png
+D:\3AI\PAM\112422\AppRpgApi\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+D:\3AI\PAM\112422\AppRpgApi\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\build.props
+D:\3AI\PAM\112422\AppRpgApi\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\adb.props
+D:\3AI\PAM\112422\AppRpgApi\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\AppRpgEtec.Android.csproj.AssemblyReference.cache
+D:\3AI\PAM\112422\AppRpgApi\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\AppRpgEtec.Android.dll
+D:\3AI\PAM\112422\AppRpgApi\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\AppRpgEtec.Android.pdb

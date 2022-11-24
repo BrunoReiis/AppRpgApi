@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CMrsWNJSHZK6RBG6vAslVtYBsNutkjdlvif4HIZ54vbEXQaQ7IfIxe6Pn8WUOY+q6n7ZH6+nvw8M2ItoaHWNKQ==",
+  "dgSpecHash": "ZITiKkVtdGYQkWSv5f9bzozPbKkU8tutMCUnTsJH4pk7q+4+Zvr1QO926MwuXUzCNb/dpIdoQek8zd0T3O+9Ig==",
   "success": false,
   "projectFilePath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec.Android\\AppRpgEtec.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.android.support.animated.vector.drawable\\25.1.0\\xamarin.android.support.animated.vector.drawable.25.1.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.android.support.annotations\\26.0.2\\xamarin.android.support.annotations.26.0.2.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.android.support.compat\\26.0.2\\xamarin.android.support.compat.26.0.2.nupkg.sha512",
