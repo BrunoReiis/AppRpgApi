@@ -8,10 +8,10 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using AppRpgEtec.ViewModels.Usuarios;
 
-namespace AppRpgEtec.ViewModels.Usuarios
+namespace AppRpgEtec.Views.Usuarios
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class LocalizacaoView : ContentPage
+    public partial class  LocalizacaoView : ContentPage
     {
         LocalizacaoViewModel viewModel;
         public LocalizacaoView()
@@ -22,6 +22,7 @@ namespace AppRpgEtec.ViewModels.Usuarios
             BindingContext = viewModel;
 
             LocalizacaoViewModel.MeuMapa = map;
+
             viewModel.InicializarMapa();
             viewModel.LocalizarEscola();
             viewModel.ExibirUsuariosNoMapa();

@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppRpgEtec.Views.Usuarios.LocalizacaoView.xaml", "Views/Usuarios/LocalizacaoView.xaml", typeof(global::AppRpgEtec.ViewModels.Usuarios.LocalizacaoView))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("AppRpgEtec.Views.Usuarios.LocalizacaoView.xaml", "Views/Usuarios/LocalizacaoView.xaml", typeof(global::AppRpgEtec.Views.Usuarios.LocalizacaoView))]
 
-namespace AppRpgEtec.ViewModels.Usuarios {
+namespace AppRpgEtec.Views.Usuarios {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\Usuarios\\LocalizacaoView.xaml")]

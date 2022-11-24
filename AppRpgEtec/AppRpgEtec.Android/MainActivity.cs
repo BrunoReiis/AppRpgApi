@@ -6,7 +6,6 @@ using Android.Runtime;
 using Android.OS;
 using Plugin.Permissions;
 
-
 namespace AppRpgEtec.Droid
 {
     [Activity(Label = "AppRpgEtec", Icon = "@mipmap/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation | ConfigChanges.UiMode | ConfigChanges.ScreenLayout | ConfigChanges.SmallestScreenSize )]

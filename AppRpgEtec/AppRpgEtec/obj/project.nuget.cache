@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l2D8WuIqk3H5sUZWW9V1pjs1rczjp49uLIkNcB72CPnh5be9moDwGYlO2u/s4q8CytWKqUMCtzl43g0uZSXA0w==",
+  "dgSpecHash": "ff7z7oNodgZeRz+rKRfLcaojj4yayH63TtxZzKghiHzwuk6hBSxm8JH0z34hAnh92qhMiCHLulF9gCn5tjfX9w==",
   "success": true,
-  "projectFilePath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+  "projectFilePath": "D:\\3AI\\PAM\\112422\\Nova pasta\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

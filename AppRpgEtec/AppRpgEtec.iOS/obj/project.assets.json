@@ -1436,11 +1436,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec.iOS\\AppRpgEtec.iOS.csproj",
+      "projectUniqueName": "D:\\3AI\\PAM\\112422\\Nova pasta\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec.iOS\\AppRpgEtec.iOS.csproj",
       "projectName": "AppRpgEtec.iOS",
-      "projectPath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec.iOS\\AppRpgEtec.iOS.csproj",
+      "projectPath": "D:\\3AI\\PAM\\112422\\Nova pasta\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec.iOS\\AppRpgEtec.iOS.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec.iOS\\obj\\",
+      "outputPath": "D:\\3AI\\PAM\\112422\\Nova pasta\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1457,8 +1457,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {
-              "projectPath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj"
+            "D:\\3AI\\PAM\\112422\\Nova pasta\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {
+              "projectPath": "D:\\3AI\\PAM\\112422\\Nova pasta\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj"
             }
           }
         }

@@ -1,13 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="AppRpgEtec.ViewModels.Usuarios.LocalizacaoView"
-             xmlns:maps="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=Xamarin.Forms.GoogleMaps">
-    <ContentPage.Content>
-        <StackLayout>
-            <maps:Map x:Name="map">
+             xmlns:maps="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=Xamarin.Forms.GoogleMaps"
+             x:Class="AppRpgEtec.Views.Usuarios.LocalizacaoView">
+  <ContentView.Content>
+      <StackLayout>
 
+            <maps:Map x:Name="map">
+                
             </maps:Map>
-        </StackLayout>
-    </ContentPage.Content>
+      </StackLayout>
+  </ContentView.Content>
 </ContentPage>
