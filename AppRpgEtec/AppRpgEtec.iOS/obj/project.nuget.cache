@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "x1xZR1W8KqpCB8mFahKjcVi4NT+fv3x/RIinD6cAaiK0y6KL2MOKX4D6S+2pQKlJ/uCSwLL1rx2gcMvanwe0zg==",
+  "dgSpecHash": "xqYIph/Q6IXMkmopTNkBD6984P8j64BANl+clBopPZFPt7eL8rFwMxXxBi5Xm7FbpPN1gh3GbrdTtwYjRFjYmQ==",
   "success": true,
-  "projectFilePath": "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec.iOS\\AppRpgEtec.iOS.csproj",
+  "projectFilePath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec.iOS\\AppRpgEtec.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\etechas\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.build.download\\0.4.11\\xamarin.build.download.0.4.11.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",

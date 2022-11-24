@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Un31yqmR72fH8nCBnsRNj/hRjymNhQSqUoxDlmOe0lt79yHx112rLdHOLLDEGoZf6GGeU+WL6srouR0a7e7FVg==",
+  "dgSpecHash": "CMrsWNJSHZK6RBG6vAslVtYBsNutkjdlvif4HIZ54vbEXQaQ7IfIxe6Pn8WUOY+q6n7ZH6+nvw8M2ItoaHWNKQ==",
   "success": false,
-  "projectFilePath": "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec.Android\\AppRpgEtec.Android.csproj",
+  "projectFilePath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec.Android\\AppRpgEtec.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",

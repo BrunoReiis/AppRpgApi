@@ -5,6 +5,10 @@ using System.Collections.Generic;
 using System.Text;
 using Xamarin.Forms;
 using Xamarin.Forms.GoogleMaps;
+using AppRpgEtec.Services.Usuarios;
+using AppRpgEtec.Models;
+using System.Collections.ObjectModel;
+
 
 namespace AppRpgEtec.ViewModels.Usuarios
 {
@@ -13,9 +17,15 @@ namespace AppRpgEtec.ViewModels.Usuarios
 
         public static Map MeuMapa;
 
+        private UsuarioService uService;
+
         public LocalizacaoViewModel()
         {
             MeuMapa = new Map();
+
+            string token = Application.Current.Properties["UsuarioToken"].ToString();
+            uService = new UsuarioService(token);
+
         }
 
         public async void InicializarMapa()
@@ -89,5 +99,37 @@ namespace AppRpgEtec.ViewModels.Usuarios
                 await Application.Current.MainPage.DisplayAlert("Erro", e.Message, "Ok");
             }
         }
+        public async void ExibirUsuariosNoMapa()
+        {
+            try
+            {
+                ObservableCollection<Usuario> ocUsuarios = await uService.GetUsuariosAsync();
+
+                List<Usuario> listaUsuarios = new List<Usuario>(ocUsuarios);
+
+                foreach (Usuario u in listaUsuarios)
+                {
+                    if (u.Latitude != null && u.Longitude != null)
+                    {
+                        double latitude = (double)u.Latitude;
+                        double longitude = (double)u.Longitude;
+
+                        Pin pinAtual = new Pin()
+                        {
+                            Type = PinType.Place,
+                            Label = u.Username,
+                            Position = new Position(latitude, longitude),
+                        };
+                        MeuMapa.Pins.Add(pinAtual);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                await Application.Current.MainPage.DisplayAlert("Erro", ex.Message, "OK");
+            }
+        }
+
+
     }
 }

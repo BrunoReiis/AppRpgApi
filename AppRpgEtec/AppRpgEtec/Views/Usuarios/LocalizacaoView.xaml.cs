@@ -24,6 +24,7 @@ namespace AppRpgEtec.ViewModels.Usuarios
             LocalizacaoViewModel.MeuMapa = map;
             viewModel.InicializarMapa();
             viewModel.LocalizarEscola();
+            viewModel.ExibirUsuariosNoMapa();
         }
     }
 }

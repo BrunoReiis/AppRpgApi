@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec.Android\\AppRpgEtec.Android.csproj": {}
+    "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec.Android\\AppRpgEtec.Android.csproj": {}
   },
   "projects": {
-    "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec.Android\\AppRpgEtec.Android.csproj": {
+    "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec.Android\\AppRpgEtec.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec.Android\\AppRpgEtec.Android.csproj",
+        "projectUniqueName": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec.Android\\AppRpgEtec.Android.csproj",
         "projectName": "AppRpgEtec.Android",
-        "projectPath": "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec.Android\\AppRpgEtec.Android.csproj",
+        "projectPath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec.Android\\AppRpgEtec.Android.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec.Android\\obj\\",
+        "outputPath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -28,8 +28,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {
-                "projectPath": "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj"
+              "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {
+                "projectPath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj"
               }
             }
           }
@@ -50,14 +50,14 @@
         }
       }
     },
-    "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {
+    "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+        "projectUniqueName": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
         "projectName": "AppRpgEtec",
-        "projectPath": "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+        "projectPath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\obj\\",
+        "outputPath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\etechas\\AppData\\Roaming\\NuGet\\NuGet.Config",

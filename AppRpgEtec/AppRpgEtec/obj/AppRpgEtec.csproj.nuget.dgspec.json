@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {}
+    "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {}
   },
   "projects": {
-    "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {
+    "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+        "projectUniqueName": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
         "projectName": "AppRpgEtec",
-        "projectPath": "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+        "projectPath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "D:\\3AI\\PAM\\110722\\RpgApiEtec\\AppRpgEtec\\AppRpgEtec\\obj\\",
+        "outputPath": "D:\\3AI\\PAM\\112422\\AppRpgApi\\AppRpgEtec\\AppRpgEtec\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\etechas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,6 +53,10 @@
             "Plugin.Permissions": {
               "target": "Package",
               "version": "[6.0.1, )"
+            },
+            "Xam.Plugin.Geolocator": {
+              "target": "Package",
+              "version": "[4.5.0.6, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",
